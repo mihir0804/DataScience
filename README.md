@@ -1,3 +1,3 @@
 # DataScience
 
-Step 1: Learn
+Step 1: cd - Start; cd..
